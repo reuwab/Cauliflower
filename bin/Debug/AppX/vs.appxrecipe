@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-BMF39F5</Machine>
+    <WindowsUser>Reuben</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>68b829ba-da39-4214-8f63-d5b3984063e7</PackageIdentityName>
+    <PackageIdentityPublisher>CN=Reuben</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\Reuben\source\repos\Cauliflower\Cauliflower\bld\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>
+    </WindowsSdkPath>
+    <LayoutDir>C:\Users\Reuben\source\repos\Cauliflower\Cauliflower\bin\Debug\AppX</LayoutDir>
+    <RegisteredManifestChecksum>75408020F55DE38738200734302F9AF3DB0C530C7154004E1696488747F9B709</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>68b829ba-da39-4214-8f63-d5b3984063e7_1.0.0.0_neutral__4a2xbvk31ftgw</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>68b829ba-da39-4214-8f63-d5b3984063e7_4a2xbvk31ftgw!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>68b829ba-da39-4214-8f63-d5b3984063e7</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Reuben</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Reuben\source\repos\Cauliflower\Cauliflower\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-05-04T14:35:20.051</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Reuben\source\repos\Cauliflower\Cauliflower\index.html">
+      <PackagePath>index.html</PackagePath>
+      <Modified>2019-05-04T14:35:16.399</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Reuben\source\repos\Cauliflower\Cauliflower\images\LockScreenLogo.scale-200.png">
+      <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2019-05-04T14:31:58.970</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Reuben\source\repos\Cauliflower\Cauliflower\images\SplashScreen.scale-200.png">
+      <PackagePath>images\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-05-04T14:31:56.543</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Reuben\source\repos\Cauliflower\Cauliflower\images\Square150x150Logo.scale-200.png">
+      <PackagePath>images\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-05-04T14:31:52.247</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Reuben\source\repos\Cauliflower\Cauliflower\images\Square44x44Logo.scale-200.png">
+      <PackagePath>images\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-05-04T14:31:49.550</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Reuben\source\repos\Cauliflower\Cauliflower\images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-05-04T14:31:46.895</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Reuben\source\repos\Cauliflower\Cauliflower\images\StoreLogo.png">
+      <PackagePath>images\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-05-04T14:31:44.084</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Reuben\source\repos\Cauliflower\Cauliflower\images\Wide310x150Logo.scale-200.png">
+      <PackagePath>images\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-05-04T14:31:41.448</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Reuben\source\repos\Cauliflower\Cauliflower\js\main.js">
+      <PackagePath>js\main.js</PackagePath>
+      <Modified>2019-05-04T14:26:22.568</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Reuben\source\repos\Cauliflower\Cauliflower\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2019-05-04T14:26:22.447</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Reuben\source\repos\Cauliflower\Cauliflower\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2019-05-04T14:35:19.204</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
